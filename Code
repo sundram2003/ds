@@ -1,0 +1,3 @@
+
+gcc filename.c -o filename -pthread -lrt -lpthread
+. /filename.c
